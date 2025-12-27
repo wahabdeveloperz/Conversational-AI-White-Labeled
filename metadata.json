@@ -1,0 +1,5 @@
+{
+  "name": "Conversational AI Agent Dashboard",
+  "description": "A dashboard to view and analyze conversational AI agent performance, including call history, evaluations, and agent configuration.",
+  "requestFramePermissions": []
+}

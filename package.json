@@ -1,0 +1,14 @@
+{
+  "name": "conversational-ai-dashboard",
+  "version": "1.0.0",
+  "description": "A dashboard to view and analyze conversational AI agent performance, including call history, evaluations, and agent configuration.",
+  "main": "index.tsx",
+  "scripts": {},
+  "dependencies": {
+    "@google/genai": "^0.1.0"
+  },
+  "devDependencies": {
+    "@types/node": "^20.11.24",
+    "typescript": "^5.3.3"
+  }
+}
